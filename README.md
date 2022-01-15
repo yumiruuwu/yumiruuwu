@@ -5,4 +5,6 @@
 - 📫 How to reach me: Flandre.#9666
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumiruuwu&&theme=dark&show_icons=true)](https://github.com/yumiruuwu)
+[![Miyakami's Stat](https://github-readme-stats.vercel.app/api?username=yumiruuwu&theme=dark&show_icons=true)](https://github.com/yumiruuwu)
+
+[![yumiruuwu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yumiruuwu)](https://github.com/yumiruuwu)
