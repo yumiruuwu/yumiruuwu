@@ -8,3 +8,5 @@
 [![Miyakami's Stat](https://github-readme-stats.vercel.app/api?username=yumiruuwu&theme=dark&show_icons=true&hide_border=true)](https://github.com/yumiruuwu)
 
 [![yumiruuwu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yumiruuwu&theme=dark&hide_border=true&custom_title=Mykm's&nbsp;Coding&nbsp;Activity)](https://github.com/yumiruuwu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumiruuwu)](https://github.com/yumiruuwu)
