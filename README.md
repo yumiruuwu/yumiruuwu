@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on my Discord bot project
 - 🌱 I’m currently learning Java & Javascript (Will learn Python in future)
