@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Discord bot project
 - 🌱 I’m currently learning Java & Javascript (Will learn Python in future)
-- 📫 How to reach me: Miyakami.#9666
+- 📫 How to reach me: Mikayami.#9666
 
 
 [![Miyakami's Stat](https://github-readme-stats.vercel.app/api?username=yumiruuwu&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://profile-summary-for-github.com/user/yumiruuwu)
